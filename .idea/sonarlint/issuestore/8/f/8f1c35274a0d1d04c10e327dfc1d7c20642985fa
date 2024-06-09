@@ -1,17 +1,19 @@
 
 …
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ÿ„ÔÕÿ1J$89ffc682-bf4c-4bc1-8b98-1295066b1d6e
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÑæŒçÿ1J$feb72e27-7183-43f8-843a-fc2bef9dab0a
 i
-java:S1452"&Remove usage of generic wildcard type.(íÜëá8©„ÔÕÿ1J$389bc85b-a750-4f3a-a38e-577a130e484b
+java:S1452"&Remove usage of generic wildcard type.(íÜëá8ÜæŒçÿ1J$a30fbe2c-0f33-45d8-b054-b997dc344aaf
 ˆ
-java:S4684#"@Replace this persistent entity with a simple POJO or DTO object.(‘êƒüÿÿÿÿ8­„ÔÕÿ1J$a449d893-5b90-4232-82f6-7db89445daa4
+java:S4684#"@Replace this persistent entity with a simple POJO or DTO object.(‘êƒüÿÿÿÿ8âæŒçÿ1J$c3baf427-c184-4576-bee3-8f9014c3dc49
 n
-java:S1452#"&Remove usage of generic wildcard type.(‘êƒüÿÿÿÿ8­„ÔÕÿ1J$24f41169-80ed-490f-b18c-1d82fcc23544
+java:S1452#"&Remove usage of generic wildcard type.(‘êƒüÿÿÿÿ8âæŒçÿ1J$9dcba8b2-16a5-44a4-b09d-d23e93bd1f2f
 ‚
-java:S46842"@Replace this persistent entity with a simple POJO or DTO object.(ÊíF8±„ÔÕÿ1J$6bc547c5-de81-49aa-9edd-c975fbd5035c
+java:S46842"@Replace this persistent entity with a simple POJO or DTO object.(ÊíF8êæŒçÿ1J$c2ef6bac-0679-45a9-87a6-ae70b61d4d95
 h
-java:S14522"&Remove usage of generic wildcard type.(ÊíF8±„ÔÕÿ1J$c206a09a-9aa3-4206-bddb-037a1db846a2
+java:S14522"&Remove usage of generic wildcard type.(ÊíF8êæŒçÿ1J$ced064ec-4fc5-4117-8281-546e40f411dc
 n
-java:S1452L"&Remove usage of generic wildcard type.(”øÈ»şÿÿÿÿ8¹„ÔÕÿ1J$f4599ea3-0b49-4ed8-9e35-87721f62bc01
+java:S1452L"&Remove usage of generic wildcard type.(”øÈ»şÿÿÿÿ8õæŒçÿ1J$7c3fd522-72a8-4914-ba47-b8ec85a9d449
+n
+java:S1452V"&Remove usage of generic wildcard type.(§àİ›øÿÿÿÿ8úæŒçÿ1J$d0210cba-e889-44af-a04d-c83dd721bec0
 o
-java:S1602V",Remove useless curly braces around statement(Óÿé¬8¾„ÔÕÿ1J$efc34bea-58e9-4dd2-b8b6-767eb2261f2b
+java:S1602\",Remove useless curly braces around statement(Óÿé¬8şæŒçÿ1J$b5eaa10b-baf9-4723-8c5a-58758d84c69e
