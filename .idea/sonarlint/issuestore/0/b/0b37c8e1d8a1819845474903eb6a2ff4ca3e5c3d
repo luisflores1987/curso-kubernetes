@@ -1,0 +1,17 @@
+
+…
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÙüÔÿ1J$f3346e34-3eb0-4ca1-9b07-5fbcba336396
+i
+java:S1452"&Remove usage of generic wildcard type.(íÜëá8‹ÙüÔÿ1J$f4499287-ee12-4513-acf9-51b0fb6ae963
+ˆ
+java:S4684&"@Replace this persistent entity with a simple POJO or DTO object.(–ìËÖùÿÿÿÿ8ÙüÔÿ1J$74439b61-2399-40ab-9fdb-ecb7c6794fd3
+n
+java:S1452&"&Remove usage of generic wildcard type.(–ìËÖùÿÿÿÿ8ÙüÔÿ1J$8d765a27-ab5e-4a65-8f9b-0895144aef96
+‚
+java:S46841"@Replace this persistent entity with a simple POJO or DTO object.(ØÀÀf8’ÙüÔÿ1J$dded206e-9a9b-4472-baec-b133a3d63381
+h
+java:S14521"&Remove usage of generic wildcard type.(ØÀÀf8“ÙüÔÿ1J$d93bc9be-e418-4d3a-a5d0-521cc1740a11
+n
+java:S1452A"&Remove usage of generic wildcard type.(”øÈ»şÿÿÿÿ8—ÙüÔÿ1J$d03c555b-1d71-4caf-ae36-2ab717bd7e77
+o
+java:S1602L",Remove useless curly braces around statement(Óÿé¬8ñãşÔÿ1J$b83e7a6d-0653-45a4-bcc2-193b245be8d5
