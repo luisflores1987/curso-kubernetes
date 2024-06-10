@@ -1,19 +1,15 @@
 
-…
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8ÑæŒçÿ1J$feb72e27-7183-43f8-843a-fc2bef9dab0a
-i
-java:S1452"&Remove usage of generic wildcard type.(íÜëá8ÜæŒçÿ1J$a30fbe2c-0f33-45d8-b054-b997dc344aaf
-ˆ
-java:S4684#"@Replace this persistent entity with a simple POJO or DTO object.(‘êƒüÿÿÿÿ8âæŒçÿ1J$c3baf427-c184-4576-bee3-8f9014c3dc49
-n
-java:S1452#"&Remove usage of generic wildcard type.(‘êƒüÿÿÿÿ8âæŒçÿ1J$9dcba8b2-16a5-44a4-b09d-d23e93bd1f2f
-‚
-java:S46842"@Replace this persistent entity with a simple POJO or DTO object.(ÊíF8êæŒçÿ1J$c2ef6bac-0679-45a9-87a6-ae70b61d4d95
-h
-java:S14522"&Remove usage of generic wildcard type.(ÊíF8êæŒçÿ1J$ced064ec-4fc5-4117-8281-546e40f411dc
-n
-java:S1452L"&Remove usage of generic wildcard type.(”øÈ»şÿÿÿÿ8õæŒçÿ1J$7c3fd522-72a8-4914-ba47-b8ec85a9d449
-n
-java:S1452V"&Remove usage of generic wildcard type.(§àİ›øÿÿÿÿ8úæŒçÿ1J$d0210cba-e889-44af-a04d-c83dd721bec0
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8¼í€2
+C
+java:S1452"&Remove usage of generic wildcard type.(íÜëá8Èí€2
+H
+java:S1452#"&Remove usage of generic wildcard type.(‘êƒüÿÿÿÿ8Îí€2
+B
+java:S14522"&Remove usage of generic wildcard type.(ÊíF8Ôí€2
+H
+java:S1452L"&Remove usage of generic wildcard type.(”øÈ»şÿÿÿÿ8àí€2
+H
+java:S1452V"&Remove usage of generic wildcard type.(§àİ›øÿÿÿÿ8ãí€2
 o
-java:S1602\",Remove useless curly braces around statement(Óÿé¬8şæŒçÿ1J$b5eaa10b-baf9-4723-8c5a-58758d84c69e
+java:S1602\",Remove useless curly braces around statement(Óÿé¬8şæŒçÿ1J$433ef3fe-1ac7-48bd-b14f-1cceaba432d5

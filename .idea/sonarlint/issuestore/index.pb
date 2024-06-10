@@ -13,8 +13,6 @@ bmsvc-usuarios/src/main/java/org/aguzman/springcloud/msvc/usuarios/services/Usua
 dmsvc-usuarios/src/main/java/org/aguzman/springcloud/msvc/usuarios/controllers/UsuarioController.java,8\f\8f1c35274a0d1d04c10e327dfc1d7c20642985fa
 H
 msvc-usuarios/.gitignore,9\8\98fcf172d840cc6ced3146b8a6bb2d73090a39ea
-
-Omsvc-cursos/src/main/java/org/aguzman/springcloud/msvc/cursos/entity/Curso.java,d\b\dbaf769d30dde5953b4193e14b44eae95ed740ab
 è
 _msvc-cursos/src/main/java/org/aguzman/springcloud/msvc/cursos/repositories/CursoRepository.java,8\a\8af853ceba57fdd4f54b0c1d6301393ad305cc9a
 à
@@ -28,13 +26,9 @@ E
 C
 msvc-cursos/pom.xml,c\9\c992d90804b37b1ae4d2f0e63baab9da8288400a
 Ü
-Vmsvc-cursos/src/main/java/org/aguzman/springcloud/msvc/cursos/entity/CursoUsuario.java,3\1\310ce1564d65b24be534091a29f80d8a26a0bf85
-Ü
 Vmsvc-cursos/src/main/java/org/aguzman/springcloud/msvc/cursos/models/entity/Curso.java,5\3\53ac4b02dd150970e42a03e8273e69a3a2062e0d
 ç
 ]msvc-cursos/src/main/java/org/aguzman/springcloud/msvc/cursos/models/entity/CursoUsuario.java,b\9\b93dc54d16cd53736780e253dfffa418ae7e6480
-à
-Xmsvc-cursos/src/main/java/org/aguzman/springcloud/msvc/cursos/models/entity/Usuario.java,5\4\547714d9191ec4d4330dc1a23fe28d2decd98af6
 Å
 Qmsvc-cursos/src/main/java/org/aguzman/springcloud/msvc/cursos/models/Usuario.java,6\3\63b460348d3825d2254f509d6e25fb7bebf365e7
 à
@@ -45,3 +39,9 @@ Xmsvc-cursos/src/main/java/org/aguzman/springcloud/msvc/cursos/services/CursoSer
 \msvc-cursos/src/main/java/org/aguzman/springcloud/msvc/cursos/clients/UsuarioClientRest.java,e\b\eb44f092cacdd8fe4ecc292e909f07c15c1965d0
 è
 _msvc-usuarios/src/main/java/org/aguzman/springcloud/msvc/usuarios/clients/CursoClienteRest.java,2\5\256ec0c6d7e40f4eb5a0a7e06090a073a0bcf10b
+F
+msvc-usuarios/mvnw.cmd,b\6\b641a88f1617fd82d7777f70cfdf96a8ad4b29b0
+B
+msvc-usuarios/mvnw,a\9\a91b5fcb71613dbb2bb9bc361d93646102348787
+H
+msvc-usuarios/Dockerfile,d\e\de40dde59f25d8bcce2561fd6e1df3af43f1c2ba

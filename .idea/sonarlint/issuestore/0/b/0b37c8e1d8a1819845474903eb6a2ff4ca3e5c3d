@@ -1,27 +1,27 @@
 
 
-java:S1192P"HDefine a constant instead of duplicating this literal "mensaje" 3 times.(¸ÿÅ—úÿÿÿÿ8ö€åçÿ1J$b07e435f-1af5-4ccf-b508-ba2fe21a6e32
-…
-java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8‚¯Ççÿ1J$61a8e4f9-4a3d-476a-b20c-0675d6a43cfb
-i
-java:S1452"&Remove usage of generic wildcard type.(íÜëá8¯Ççÿ1J$9b6de96c-3b16-4643-826f-37ee7b82b950
-ˆ
-java:S4684%"@Replace this persistent entity with a simple POJO or DTO object.(–ìËÖùÿÿÿÿ8’¯Ççÿ1J$8d98b5d0-61cf-4843-b1ef-09a3498fcece
-n
-java:S1452%"&Remove usage of generic wildcard type.(–ìËÖùÿÿÿÿ8“¯Ççÿ1J$5205631b-f554-4a0c-9a58-a490e9838439
-‚
-java:S46840"@Replace this persistent entity with a simple POJO or DTO object.(ØÀÀf8–¯Ççÿ1J$b0ff42e7-4f54-4a27-9951-2d8de0242a64
-h
-java:S14520"&Remove usage of generic wildcard type.(ØÀÀf8–¯Ççÿ1J$e71fe0be-dd1b-4349-b812-9b66e3a4b2b8
-n
-java:S1452@"&Remove usage of generic wildcard type.(”øÈ»şÿÿÿÿ8¯Ççÿ1J$5ce1bade-af89-45e5-a22d-3751a5a68c12
-h
-java:S1452J"&Remove usage of generic wildcard type.(ŠœÚg8¡¯Ççÿ1J$d4df32ab-e6a4-478f-88d0-9d1c0ed05051
-n
-java:S1452["&Remove usage of generic wildcard type.(—Šûîúÿÿÿÿ8¥¯Ççÿ1J$1e5b73b2-7f09-4cd6-ac07-b5db95583919
-i
-java:S1452m"&Remove usage of generic wildcard type.(˜¡ĞŠ8¨¯Ççÿ1J$36e4b4c5-dacc-452d-a5fa-aebcdf776619
-i
-java:S1452}"&Remove usage of generic wildcard type.(â¿åà8ğÄççÿ1J$7e6ba6dd-41d0-4f19-9c5e-3a025c600bc1
+java:S1192P"HDefine a constant instead of duplicating this literal "mensaje" 3 times.(¸ÿÅ—úÿÿÿÿ8ö€åçÿ1J$af60ccfd-3b42-4558-88fd-c04262aae502
+_
+java:S6813"BRemove this field injection and use constructor injection instead.(êæÄŞ8Ø•í€2
+C
+java:S1452"&Remove usage of generic wildcard type.(íÜëá8ä•í€2
+b
+java:S4684%"@Replace this persistent entity with a simple POJO or DTO object.(–ìËÖùÿÿÿÿ8ê•í€2
+H
+java:S1452%"&Remove usage of generic wildcard type.(–ìËÖùÿÿÿÿ8ê•í€2
+\
+java:S46840"@Replace this persistent entity with a simple POJO or DTO object.(ØÀÀf8î•í€2
+B
+java:S14520"&Remove usage of generic wildcard type.(ØÀÀf8î•í€2
+H
+java:S1452@"&Remove usage of generic wildcard type.(”øÈ»şÿÿÿÿ8õ•í€2
+B
+java:S1452J"&Remove usage of generic wildcard type.(ŠœÚg8ú•í€2
+H
+java:S1452["&Remove usage of generic wildcard type.(—Šûîúÿÿÿÿ8ˆ–í€2
+C
+java:S1452m"&Remove usage of generic wildcard type.(˜¡ĞŠ8–í€2
+C
+java:S1452}"&Remove usage of generic wildcard type.(â¿åà8•–í€2
 p
-java:S1602„",Remove useless curly braces around statement(Óÿé¬8Û—åçÿ1J$2e07ef48-6b0f-43e8-a00e-54f9126b9551
+java:S1602„",Remove useless curly braces around statement(Óÿé¬8Û—åçÿ1J$0649710e-7cfb-484e-b6a3-18ab66664071
