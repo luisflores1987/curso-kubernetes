@@ -18,10 +18,11 @@ RUN ./mvnw clean package -DskipTests
 FROM amazoncorretto:17.0.9
 
 WORKDIR /app
+RUN mkdir ./logs
 
 # objetivo: se realiza cosas, en la imagen anterior hacer esas operaciones y solo usamos en la siguiente imagen el jar con el from.
 COPY --from=builder /app/msvc-usuarios/target/msvc-usuarios-0.0.1-SNAPSHOT.jar .
 EXPOSE 8001
 
-ENTRYPOINT ["java", "-jar", "msvc-usuarios-0.0.1-SNAPSHOT.jar"]
+CMD ["java", "-jar", "msvc-usuarios-0.0.1-SNAPSHOT.jar"]
 
